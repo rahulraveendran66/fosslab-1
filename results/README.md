@@ -2,6 +2,7 @@
 Contains two scripts: sgpa.sh and cgpa.sh
 
 ./sgpa.sh result.pdf semester_no.
+
 ./cgpa.sh result_for_s1.pdf result_for_s2.pdf
 
 ### SGPA
